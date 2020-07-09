@@ -51,8 +51,7 @@ a RDBMS by a set of `CREATE TABLE` statements.
 
 ### 2.4 Student-Course management
 
-1. A student can enroll different courses. But that student can enroll a course
-   only if<br />
+1. A student can enroll different courses. But that student can enroll a course only if<br />
        - That student has registered in the semester and the course is offered in that semester. i.e. A student need to register 2020 Spring before enrolling any course in 2020 Spring.<br />
        - That student passes all the prerequisite courses<br />
        - It is being offered by a department they are majoring in<br />
