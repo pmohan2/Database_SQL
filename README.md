@@ -52,12 +52,12 @@ a RDBMS by a set of `CREATE TABLE` statements.
 ### 2.4 Student-Course management
 
 1. A student can enroll different courses. But that student can enroll a course only if
-*
-  - That student has registered in the semester and the course is offered in that semester. i.e. A student need to register 2020 Spring before enrolling any course in 2020 Spring.
-  - That student passes all the prerequisite courses
-  - It is being offered by a department they are majoring in
-  - The capacity of the course is not full
-*
+**
+- That student has registered in the semester and the course is offered in that semester. i.e. A student need to register 2020 Spring before enrolling any course in 2020 Spring.
+- That student passes all the prerequisite courses
+- It is being offered by a department they are majoring in
+- The capacity of the course is not full
+**
 2. Students will have a grade (F/D/C/B/A) with the course, which will be given after the student finishes the course.
 3. Students can post feedback for the instructor of the course in which they enrolled.
 4. Each course has one or more exams. Students who take that course have letter grades on those exams.
