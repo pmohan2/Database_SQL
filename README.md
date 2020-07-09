@@ -1,4 +1,4 @@
-# CSE 560 Project: TinyHub 
+# CSE 560 Project: Desig and Implementation of Database Schema for TinyHub
 
 ## 1 Description
 
